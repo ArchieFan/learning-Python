@@ -10,3 +10,9 @@
 - -- 🔗 [Rock, Paper, & Scissor](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%201/rock_paper_scissors.py)
 - -- 🔗 [Rock, Paper, & Scissor v2](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%201/rock_paper_scissors_2.py)
 - -- 🔗 [Rock, Paper, & Scissor v3](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%201/rock_paper_scissors_3.py)
+
+- 🔗 [Chapter 2 - intermediate]
+- -- 🔗 [Scope](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/scope.py)
+- -- 🔗 [Closures](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/closure.py)
+- -- 🔗 [Rock, Paper, & Scissor v4](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/rock_paper_scissors_4.py)
+- -- 🔗 [Rock, Paper, & Scissor v5](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/rock_paper_scissors_5.py)

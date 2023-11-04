@@ -15,6 +15,7 @@
 - -- 🔗 [Scope](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/scope.py)
 - -- 🔗 [Closures](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/closure.py)
 - -- 🔗 [f string](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/fstring.py)
+- -- 🔗 [Modules](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/modules.py)
 - -- 🔗 [Rock, Paper, & Scissor v4](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/rock_paper_scissors_4.py)
 - -- 🔗 [Rock, Paper, & Scissor v5](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/rock_paper_scissors_5.py)
 - -- 🔗 [Rock, Paper, & Scissor v6](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/rock_paper_scissors_6.py)

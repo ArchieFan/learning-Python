@@ -19,3 +19,4 @@
 - -- 🔗 [Rock, Paper, & Scissor v4](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/rock_paper_scissors_4.py)
 - -- 🔗 [Rock, Paper, & Scissor v5](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/rock_paper_scissors_5.py)
 - -- 🔗 [Rock, Paper, & Scissor v6](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/rock_paper_scissors_6.py)
+- -- 🔗 [Rock, Paper, & Scissor v7](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/rock_paper_scissors_7.py)

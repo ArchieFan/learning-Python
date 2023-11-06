@@ -62,11 +62,11 @@ del band2
 # print(band2)
 # print(band)
 
-# band2["drums"] = "Dave"
+# band2["drums"] = "archiefan"
 # print(band)
 
 band2 = band.copy()
-band2["drums"] = "Dave"
+band2["drums"] = "archiefan"
 print("Good copy!")
 print(band)
 print(band2)

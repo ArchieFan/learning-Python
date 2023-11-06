@@ -13,7 +13,7 @@ value = 1
 # else:
 #     print("Value is now equal to " + str(value))
 
-names = ["Dave", "Sara", "John"]
+names = ["archiefan", "Sara", "John"]
 # for x in names:
 #     print(x)
 
@@ -41,7 +41,7 @@ for x in range(5, 101, 5):
 else:
     print("Glad that\'s over!")
 
-names = ["Dave", "Sara", "John"]
+names = ["archiefan", "Sara", "John"]
 actions = ["codes", "eats", "sleeps"]
 
 # for name in names:

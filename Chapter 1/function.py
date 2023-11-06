@@ -20,7 +20,7 @@ def multiple_items(*args):
     print(type(args))
 
 
-multiple_items("Dave", "John", "Sara")
+multiple_items("archiefan", "John", "Sara")
 
 
 def mult_named_items(**kwargs):
@@ -28,4 +28,4 @@ def mult_named_items(**kwargs):
     print(type(kwargs))
 
 
-mult_named_items(first="Dave", last="Gray")
+mult_named_items(first="archiefan", last="Gray")

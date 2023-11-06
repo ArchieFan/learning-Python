@@ -22,6 +22,7 @@
 - -- 🔗 [Rock, Paper, & Scissor v7](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/rock_paper_scissors_7.py)
 - 🔗 [Chapter 3 - advanced]
 - -- 🔗 [Command Line Arguments](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%203/hello_person.py)
+- -- 🔗 [Working With Files](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%203/files.py)
 - -- 🔗 [Rock, Paper, & Scissor v8](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%203/rock_paper_scissors_8.py)
 - -- 🔗 [Guessing Game](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%203/guess_number.py)
 - -- 🔗 [Rock, Paper, & Scissor Game](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%203/rps.py)

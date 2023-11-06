@@ -20,3 +20,6 @@
 - -- 🔗 [Rock, Paper, & Scissor v5](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/rock_paper_scissors_5.py)
 - -- 🔗 [Rock, Paper, & Scissor v6](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/rock_paper_scissors_6.py)
 - -- 🔗 [Rock, Paper, & Scissor v7](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%202/rock_paper_scissors_7.py)
+- 🔗 [Chapter 2 - advanced]
+- -- 🔗 [Command Line Arguments](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%203/hello_person.py)
+- -- 🔗 [Rock, Paper, & Scissor v8](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%203/rock_paper_scissors_8.py)

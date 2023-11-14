@@ -31,3 +31,5 @@
 - -- 🔗 [Lambda & Higher Order Function](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%203/lambda.py) 
 - -- 🔗 [Classes, Objects, Inheritance & Polymorphism](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%203/classes.py) 
 - -- 🔗 [OOP Project](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%203/oop_project.py) 
+- 🔗 [Chapter 4 - advanced II]
+- -- 🔗 [Virtual Environments & PIP](https://github.com/ArchieFan/learning-Python/tree/main/Chapter%204) 

@@ -11,9 +11,9 @@ def get_current_weather():
 
     city = input("\nPlease enter a city name:\n")
 
-    request_url = f'https://api.openweathermap.org/data/2.5/weather?appid={os.getenv("API_KEY")}&q={city}&units=imperial'
+    request_url = f'https://api.openweathermap.org/data/2.5/weather?appid={os.getenv("API_KEY")}&q={city}&units=metric'
 
-    # print(request_url)
+    #print(request_url)
 
     weather_data = requests.get(request_url).json()
 
@@ -21,8 +21,7 @@ def get_current_weather():
 
     print(f'\nCurrent weather for {weather_data["name"]}:')
     print(f'\nThe temp is {weather_data["main"]["temp"]:.1f}°')
-    print(
-        f'\n{weather_data["weather"][0]["description"].capitalize()} and feels like {weather_data["main"]["feels_like"]:.1f}°\n')
+    print(f'\n{weather_data["weather"][0]["description"].capitalize()} and feels like {weather_data["main"]["feels_like"]:.1f}°\n')
 
 
 if __name__ == "__main__":

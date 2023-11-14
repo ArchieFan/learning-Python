@@ -12,7 +12,7 @@ pip install requests==2.30.0
 pip uninstall requests
 
 py -m venv .venv
-.venv/Scripts/activat (added source in the front for linux)
+.venv/Scripts/activate (added source in the front for linux)
 
 pip list
 

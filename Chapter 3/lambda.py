@@ -59,7 +59,7 @@ print(total)
 print(sum(numbers, 10))
 
 
-names = ['Dave Gray', 'Sara Ito', 'John Jacob Jingleheimerschmidt']
+names = ['Archie Gray', 'Max Ito', 'John Jacob Jingleheimerschmidt']
 
 char_count = reduce(lambda acc, curr: acc + len(curr), names, 0)
 

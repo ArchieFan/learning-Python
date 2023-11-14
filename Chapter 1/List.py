@@ -23,7 +23,7 @@ print(users)
 users += ['Jason']
 print(users)
 
-users.extend(['Robert', 'Jimmy'])
+users.extend(['Robert', 'GuiZhenmy'])
 print(users)
 
 # users.extend(data)

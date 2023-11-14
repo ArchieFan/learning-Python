@@ -29,3 +29,4 @@
 - -- 🔗 [Rock, Paper, & Scissor Game](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%203/rps.py)
 - -- 🔗 [Arcade System](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%203/arcade.py)
 - -- 🔗 [Lambda & Higher Order Function](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%203/lambda.py) 
+- -- 🔗 [Classes, Objects, Inheritance & Polymorphism](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%203/classes.py) 

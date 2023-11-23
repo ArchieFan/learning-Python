@@ -33,3 +33,5 @@
 - -- 🔗 [OOP Project](https://github.com/ArchieFan/learning-Python/blob/main/Chapter%203/oop_project.py) 
 - 🔗 [Chapter 4 - advanced II]
 - -- 🔗 [Virtual Environments & PIP](https://github.com/ArchieFan/learning-Python/tree/main/Chapter%204) 
+- 🔗 [Flask Web App]
+- -- 🔗 [Flask Weather App](https://github.com/ArchieFan/learning-Python/tree/main/Flask%20Web) 

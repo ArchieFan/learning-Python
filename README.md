@@ -36,4 +36,4 @@
 - 🔗 [Flask Web App]
 - -- 🔗 [Flask Weather App](https://github.com/ArchieFan/learning-Python/tree/main/Flask%20Web) 
 - 🔗 [Slot Machine]
-- -- 🔗 [Slot Machine](https://github.com/ArchieFan/learning-Python/tree/main/Slot-Machine) 
+- -- 🔗 [Slot Machine](https://github.com/ArchieFan/learning-Python/tree/main/Slot-Machine)
